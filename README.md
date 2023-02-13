@@ -4,7 +4,31 @@
 
 What does Memgraph offer as an engine? 🤔
 
+Desired system properties:
+* low-latency
+* high-throughput
+* data-scale
+* algo-scale
+* feature-rich
+* easy-to-use
+* easy-to-change
+* correct
+* efficient
+
 ## skills graph
+
+Graph meisters skills:
+* cypher
+* indexing
+* query-modules
+* streams
+* triggers
+* memory-usage
+* backups
+* monitoring
+* high-availability
+* sharding
+* enterprise
 
 What should I master to tackle my use-case using Memgraph? 🛠
 
