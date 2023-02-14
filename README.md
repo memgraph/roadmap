@@ -5,32 +5,32 @@
 What does Memgraph offer as an engine? 🤔
 
 Desired system properties:
-* low-latency
-* high-throughput
-* data-scale
-* algo-scale
-* feature-rich
-* easy-to-use
-* easy-to-change
-* correct
-* efficient
+  * low-latency
+  * high-throughput
+  * data-scale
+  * algo-scale
+  * feature-rich
+  * easy-to-use
+  * easy-to-change
+  * correct
+  * efficient
 
 ## skills graph
 
-Graph meisters skills:
-* cypher
-* indexing
-* query-modules
-* streams
-* triggers
-* memory-usage
-* backups
-* monitoring
-* high-availability
-* sharding
-* enterprise
-
 What should I master to tackle my use-case using Memgraph? 🛠
+
+Graph meisters skills:
+  * cypher
+  * indexing
+  * query-modules
+  * streams
+  * triggers
+  * memory-usage
+  * backups
+  * monitoring
+  * high-availability
+  * sharding
+  * enterprise
 
 ## product milestones
 
@@ -51,3 +51,6 @@ What should I master to tackle my use-case using Memgraph? 🛠
 
 * Benchmark <a href="https://github.com/memgraph/memgraph/milestone/3"><img src="https://img.shields.io/github/milestones/progress/memgraph/memgraph/3" alt="license" title="license"/></a>
   * Add bigger dataset and more queries - LDBC as a workload
+  
+* mgconsole v1.4 <a href="https://github.com/memgraph/mgconsole/milestone/1"><img src="https://img.shields.io/github/milestones/progress/memgraph/mgconsole/1" alt="license" title="license"/></a>
+  * Add batched and parallel import + a few bug fixes
