@@ -42,12 +42,14 @@ Graph meisters skills:
   * `mgp_mock`
 
 * Memgraph v3 <a href="https://github.com/memgraph/memgraph/milestone/4"><img src="https://img.shields.io/github/milestones/progress/memgraph/memgraph/4" alt="license" title="license"/></a>
-  * Achieve intra-query batched and parallel execution
-  * Make Transport Layer working across physical network
-  * Make Memgraph easier to compile
+  * Make Memgraph easy to compile and use
+  * Make Memgraph v3 comparable to v2 in terms of throughput and latency
+  * Minimize the number of exchanged messages
 
 * Memgraph v3 <a href="https://github.com/memgraph/memgraph/milestone/5"><img src="https://img.shields.io/github/milestones/progress/memgraph/memgraph/5" alt="license" title="license"/></a>
+  * Achieve intra-query batched and parallel execution
   * Operate on 10B+ scale with limited feature set but being stable
+  * Make Transport Layer working across physical network
 
 * Benchmark <a href="https://github.com/memgraph/memgraph/milestone/3"><img src="https://img.shields.io/github/milestones/progress/memgraph/memgraph/3" alt="license" title="license"/></a>
   * Add bigger dataset and more queries - LDBC as a workload
