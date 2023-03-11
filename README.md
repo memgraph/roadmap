@@ -40,6 +40,8 @@ Graph meisters skills:
 * [GQLAlchemy](https://github.com/memgraph/gqlalchemy/milestones)
 * [Migrate](https://github.com/memgraph/mgmigrate/milestones)
 
+## [all projects](https://github.com/orgs/memgraph/projects)
+
 ## upcoming milestones
 
 * Memgraph v3 Beta
