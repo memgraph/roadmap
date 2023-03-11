@@ -32,7 +32,7 @@ Graph meisters skills:
   * sharding
   * enterprise
 
-## product milestones
+## in-progress milestones
 
 * [Core Engine](https://github.com/memgraph/memgraph/milestones)
 * [Console](https://github.com/memgraph/mgconsole/milestones)
