@@ -42,6 +42,8 @@ Graph meisters skills:
 
 ## [all projects](https://github.com/orgs/memgraph/projects)
 
+## 🚧 [top-level known issues project](https://github.com/orgs/memgraph/projects/12)
+
 ## upcoming milestones
 
 * Memgraph v3 Beta
