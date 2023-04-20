@@ -1,5 +1,17 @@
 # roadmap
 
+## in-progress milestones
+
+* [Core Engine](https://github.com/memgraph/memgraph/milestones)
+* [Console](https://github.com/memgraph/mgconsole/milestones)
+* [Mage](https://github.com/memgraph/mage/milestones)
+* [GQLAlchemy](https://github.com/memgraph/gqlalchemy/milestones)
+* [Migrate](https://github.com/memgraph/mgmigrate/milestones)
+
+## [all projects](https://github.com/orgs/memgraph/projects)
+
+## 🚧 [top-level known issues project](https://github.com/orgs/memgraph/projects/12)
+
 ## capabilities graph
 
 What does Memgraph offer as an engine? 🤔
@@ -31,18 +43,6 @@ Graph meisters skills:
   * high-availability
   * sharding
   * enterprise
-
-## in-progress milestones
-
-* [Core Engine](https://github.com/memgraph/memgraph/milestones)
-* [Console](https://github.com/memgraph/mgconsole/milestones)
-* [Mage](https://github.com/memgraph/mage/milestones)
-* [GQLAlchemy](https://github.com/memgraph/gqlalchemy/milestones)
-* [Migrate](https://github.com/memgraph/mgmigrate/milestones)
-
-## [all projects](https://github.com/orgs/memgraph/projects)
-
-## 🚧 [top-level known issues project](https://github.com/orgs/memgraph/projects/12)
 
 ## upcoming milestones
 
