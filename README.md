@@ -41,12 +41,6 @@ Graph meisters skills:
   * backups
   * monitoring
   * high-availability
+  * multi-tenancy
   * sharding
   * enterprise
-
-## upcoming milestones
-
-* Memgraph v3 Beta
-  * Achieve intra-query batched and parallel execution
-  * Operate on 10B+ scale with limited feature set but being stable
-  * Make Transport Layer working across physical network
