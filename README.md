@@ -10,7 +10,11 @@
 
 ## [all projects](https://github.com/orgs/memgraph/projects)
 
-## 🚧 [top-level known issues project](https://github.com/orgs/memgraph/projects/12)
+## 🚧 [active issues project](https://github.com/orgs/memgraph/projects/12)
+
+Every Memgraph repo has a list of issues (standard Github issues).
+We link issues we plan to resolve in the short term or are in progress
+under a single [Github project](https://github.com/orgs/memgraph/projects/12).
 
 ## capabilities graph
 
