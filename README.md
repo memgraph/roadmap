@@ -6,7 +6,6 @@
 * [Console](https://github.com/memgraph/mgconsole/milestones)
 * [Mage](https://github.com/memgraph/mage/milestones)
 * [GQLAlchemy](https://github.com/memgraph/gqlalchemy/milestones)
-* [Migrate](https://github.com/memgraph/mgmigrate/milestones)
 
 ## [all projects](https://github.com/orgs/memgraph/projects)
 
