@@ -1,5 +1,9 @@
 # roadmap
 
+## 2024-02-09 SNAPSHOT
+
+![Screenshot 2024-02-09 at 11 16 57 AM](https://github.com/memgraph/roadmap/assets/4950251/061eb785-b862-453b-a13e-0fb4b09a29af)
+
 ## in-progress milestones
 
 * [Core Engine](https://github.com/memgraph/memgraph/milestones)
