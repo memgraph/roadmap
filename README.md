@@ -1,8 +1,6 @@
 # roadmap
 
-## 2024-02-09 SNAPSHOT
-
-![Screenshot 2024-02-09 at 11 16 57 AM](https://github.com/memgraph/roadmap/assets/4950251/061eb785-b862-453b-a13e-0fb4b09a29af)
+<img width="1797" alt="2024-03-01 EXTERNAL ROADMAP" src="https://github.com/memgraph/roadmap/assets/4950251/83d30183-fda4-4cb0-a229-6f279dfbc528">
 
 ## in-progress milestones
 
