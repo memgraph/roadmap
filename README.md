@@ -1,25 +1,28 @@
-# roadmap
+# Roadmap 🗺️
 
 <img width="1797" alt="2024-03-01 EXTERNAL ROADMAP" src="https://github.com/memgraph/roadmap/assets/4950251/83d30183-fda4-4cb0-a229-6f279dfbc528">
 
-## in-progress milestones
+## Release Cycle ♻️
+
+Memgraph product team works in 6-week release cycles. Every six weeks, a new release of Memgraph includes all finished features and resolved bug reports. The exact release dates are visible as Due Dates under [milestones](https://github.com/memgraph/memgraph/milestones). There might be bug-fix releases between regular releases, depending on how critical these fixes are for Memgraph's production deployments.
+
+The team is also considering some form of Long-term Support (LTS) structure. If you have specific input about how we should organize around LTS, feel free to reach out or [open a new issue under this repo](https://github.com/memgraph/roadmap/issues) with the exact expectations.
+
+## Milestones 🥅
 
 * [Core Engine](https://github.com/memgraph/memgraph/milestones)
-* [Console](https://github.com/memgraph/mgconsole/milestones)
 * [Mage](https://github.com/memgraph/mage/milestones)
+* [Console](https://github.com/memgraph/mgconsole/milestones)
 * [GQLAlchemy](https://github.com/memgraph/gqlalchemy/milestones)
 
-## [all projects](https://github.com/orgs/memgraph/projects)
+## Projects
 
-## 🚧 [active issues project](https://github.com/orgs/memgraph/projects/12)
+* [All](https://github.com/orgs/memgraph/projects)
+* Every Memgraph repo has a list of issues (standard Github issues). We link all the issues planned to be resolved in the short-term under [Community Bugs and Incremental Features](https://github.com/orgs/memgraph/projects/12).
 
-Every Memgraph repo has a list of issues (standard Github issues).
-We link issues we plan to resolve in the short term or are in progress
-under a single [Github project](https://github.com/orgs/memgraph/projects/12).
+## Capabilities Graph 🤔
 
-## capabilities graph
-
-What does Memgraph offer as an engine? 🤔
+What does Memgraph offer as an engine?
 
 Desired system properties:
   * low-latency
@@ -32,9 +35,9 @@ Desired system properties:
   * correct
   * efficient
 
-## skills graph
+## Skills Graph 🧰
 
-What should I master to tackle my use-case using Memgraph? 🛠
+What should I master to tackle my use-case using Memgraph?
 
 Graph meisters skills:
   * cypher
