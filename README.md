@@ -18,7 +18,7 @@ The team is also considering some form of Long-term Support (LTS) structure. If 
 ## Projects
 
 * [All](https://github.com/orgs/memgraph/projects)
-* Every Memgraph repo has a list of issues (standard Github issues). We link all the issues planned to be resolved in the short-term under [Community Bugs and Incremental Features](https://github.com/orgs/memgraph/projects/12).
+* Every Memgraph repo has a list of issues (standard Github issues). We link all the issues planned to be resolved in the short term under [Community Bugs and Incremental Features](https://github.com/orgs/memgraph/projects/12).
 
 ## Capabilities Graph 🤔
 
@@ -37,7 +37,7 @@ Desired system properties:
 
 ## Skills Graph 🧰
 
-What should I master to tackle my use-case using Memgraph?
+What should I master to tackle my use case using Memgraph?
 
 Graph meisters skills:
   * cypher
@@ -52,3 +52,7 @@ Graph meisters skills:
   * multi-tenancy
   * sharding
   * enterprise
+
+## Next Steps 🚶
+
+The best way to advance the journey with Memgraph is through [documentation](https://memgraph.com/docs). Feel free to learn more about Memgraph, spin it, or upgrade to the latest version. If you want to dive deep into the code details, [memgraph/memgraph](https://github.com/memgraph/memgraph) is the best place to start!
