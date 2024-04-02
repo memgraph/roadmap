@@ -2,6 +2,8 @@
 
 <img width="1797" alt="2024-03-01 EXTERNAL ROADMAP" src="https://github.com/memgraph/roadmap/assets/4950251/83d30183-fda4-4cb0-a229-6f279dfbc528">
 
+*the next update ETA 2024-04-03
+
 ## Release Cycle ♻️
 
 Memgraph product team works in 6-week release cycles. Every six weeks, a new release of Memgraph includes all finished features and resolved bug reports. The exact release dates are visible as Due Dates under [milestones](https://github.com/memgraph/memgraph/milestones). There might be bug-fix releases between regular releases, depending on how critical these fixes are for Memgraph's production deployments.
