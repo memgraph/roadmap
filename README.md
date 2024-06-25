@@ -1,8 +1,8 @@
 # Roadmap 🗺️
 
-Last update 2024-05-16
-![Screenshot 2024-05-16 at 9 25 58 PM](https://github.com/memgraph/roadmap/assets/4950251/f6f1eb57-494e-4e8a-8aac-60ecc3125306)
-*the next update ETA 2024-06-26 ⏳
+Last update 2024-06-25
+<img width="1524" alt="Screenshot 2024-06-25 at 7 17 52 AM" src="https://github.com/memgraph/roadmap/assets/4950251/7f8a1151-6c50-49af-b7d6-a6a53644d380">
+*the next update ETA 2024-07-08 ⏳
 
 ## Release Cycle ♻️
 
