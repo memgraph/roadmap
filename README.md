@@ -8,6 +8,9 @@ Last update 2025-01-28
 
 Memgraph product team works in 6-week release cycles. Every six weeks, a new release of Memgraph includes all finished features and resolved bug reports. The exact release dates are visible as Due Dates under [milestones](https://github.com/memgraph/memgraph/milestones). There might be bug-fix releases between regular releases, depending on how critical these fixes are for Memgraph's production deployments.
 
+The exact cycle structure is visualized in the diagram below:
+<img width="1200" alt="ReleaseCycle_hybrid" src="https://github.com/user-attachments/assets/300a83ed-b299-438d-bb4c-2928f7024064" />
+
 The team is also considering some form of Long-term Support (LTS) structure. If you have specific input about how we should organize around LTS, feel free to reach out or [open a new issue under this repo](https://github.com/memgraph/roadmap/issues) with the exact expectations.
 
 ## Milestones 🥅
