@@ -13,6 +13,10 @@ The exact cycle structure is visualized in the diagram below:
 
 The team is also considering some form of Long-term Support (LTS) structure. If you have specific input about how we should organize around LTS, feel free to reach out or [open a new issue under this repo](https://github.com/memgraph/roadmap/issues) with the exact expectations.
 
+## Daily Build of Memgraph and Mage 🏗️
+
+Memgraph CI builds the latest version of Memgraph and Mage each day. Daily packages are available to download [HERE](https://memgraph.github.io/daily-builds/). Daily builds are useful for experimenting with recent improvements. Keep in mind these are not "official" releases and might not be suitable for running in production. But if you want to live on the edge, who are we to stop you from doing that 😂
+
 ## Milestones 🥅
 
 * [Core Engine](https://github.com/memgraph/memgraph/milestones)
@@ -20,7 +24,7 @@ The team is also considering some form of Long-term Support (LTS) structure. If 
 * [Console](https://github.com/memgraph/mgconsole/milestones)
 * [GQLAlchemy](https://github.com/memgraph/gqlalchemy/milestones)
 
-## Projects
+## Projects 🏹
 
 * [All](https://github.com/orgs/memgraph/projects)
 * Every Memgraph repo has a list of issues (standard Github issues). We link all the issues planned to be resolved in the short term under [Community Bugs and Incremental Features](https://github.com/orgs/memgraph/projects/12).
