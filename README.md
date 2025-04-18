@@ -62,6 +62,10 @@ Graph meisters skills:
   * sharding
   * enterprise
 
+## Feedback 🆘
+
+To help Memgraph improve, please complete the [Roadmap survey](https://docs.google.com/forms/d/e/1FAIpQLSfDRK-JllJKjWufhXuxo9-bQ4OMmCoHGkj7ZKGOTpdVttCcMw/viewform?usp=dialog). Thanks a lot!
+
 ## Next Steps 🚶
 
 The best way to advance the journey with Memgraph is through [documentation](https://memgraph.com/docs). Feel free to learn more about Memgraph, spin it, or upgrade to the latest version. If you want to dive deep into the code details, [memgraph/memgraph](https://github.com/memgraph/memgraph) is the best place to start!
