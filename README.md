@@ -26,8 +26,9 @@ Memgraph CI builds the latest version of Memgraph and Mage each day. Daily packa
 
 ## Projects 🏹
 
-* [All](https://github.com/orgs/memgraph/projects)
-* Every Memgraph repo has a list of issues (standard Github issues). We link all the issues planned to be resolved in the short term under [Community Bugs and Incremental Features](https://github.com/orgs/memgraph/projects/12).
+* [All GitHub Projects](https://github.com/orgs/memgraph/projects)
+* [AI Toolkit](https://github.com/memgraph/ai-toolkit) & [AI Demos](https://github.com/memgraph/ai-demos)
+* Every Memgraph repo has a list of issues (standard GitHub issues). We link all the issues planned to be resolved in the short term under [Community Bugs and Incremental Features](https://github.com/orgs/memgraph/projects/12).
 
 ## Capabilities Graph 🤔
 
