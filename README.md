@@ -1,9 +1,9 @@
 # Roadmap 🗺️
 
-Last update 2025-01-10
-<img width="1747" height="1088" alt="Screenshot 2026-01-10 at 12 26 36 PM" src="https://github.com/user-attachments/assets/d7582c6d-ce5e-4f9c-bd18-404d365689ea" />
-*the next update ETA 2026-02-03 ⏳
+Last update 2025-01-14
 
+*the next update ETA 2026-02-03 ⏳
+<img width="1762" height="1120" alt="Screenshot 2026-01-14 at 11 03 27 AM" src="https://github.com/user-attachments/assets/e60f0cd9-8e1a-4226-9d3a-9fc602ce5028" />
 ## Release Cycle ♻️
 
 Memgraph product team works in 6-week release cycles. Every six weeks, a new release of Memgraph includes all finished features and resolved bug reports. The exact release dates are visible as Due Dates under [milestones](https://github.com/memgraph/memgraph/milestones). There might be bug-fix releases between regular releases, depending on how critical these fixes are for Memgraph's production deployments.
