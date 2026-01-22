@@ -20,7 +20,6 @@ Memgraph CI builds the latest version of Memgraph and Mage each day. Daily packa
 ## Milestones 🥅
 
 * [Core Engine](https://github.com/memgraph/memgraph/milestones)
-* [Mage](https://github.com/memgraph/mage/milestones)
 * [Console](https://github.com/memgraph/mgconsole/milestones)
 * [GQLAlchemy](https://github.com/memgraph/gqlalchemy/milestones)
 
@@ -32,27 +31,28 @@ Memgraph CI builds the latest version of Memgraph and Mage each day. Daily packa
 
 ## Capabilities Graph 🤔
 
-What does Memgraph offer as an engine?
-
-Desired system properties:
-  * low-latency
-  * high-throughput
-  * data-scale
-  * algo-scale
-  * feature-rich
+What does Memgraph offer as an engine? Desired system properties are:
   * easy-to-use
-  * easy-to-change
+  * speed:
+      * low-latency
+      * high-throughput
+  * scale:
+      * data-scale
+      * algo-scale
   * correct
+  * stable
+  * feature-rich
+  * easy-to-change
   * efficient
 
-## Skills Graph 🧰
+## [Skills](https://github.com/memgraph/skills) Graph 🧰
 
-What should I master to tackle my use case using Memgraph?
-
-Graph meisters skills:
+What should I master to tackle my use case using Memgraph? Graph meisters skills:
   * cypher
   * indexing
   * query-modules
+      * [python query modules](https://github.com/memgraph/skills/tree/main/memgraph-python-query-modules) 
+      * [c/c++ query modules](https://github.com/memgraph/skills/tree/main/memgraph-cpp-query-modules)
   * streams
   * triggers
   * memory-usage
