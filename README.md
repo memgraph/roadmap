@@ -48,20 +48,38 @@ What does Memgraph offer as an engine? Desired system properties are:
 ## [Skills](https://github.com/memgraph/skills) Graph 🧰
 
 What should I master to tackle my use case using Memgraph? Graph meisters skills:
-  * cypher
+  * quick start of an operational graph
+  * setting up a client
+  * using cypher
+  * configuring storage
+  * taking large amounts of data in (cypherl, CSV, JSON, PARQUET, ...)
+  * what are the right data types
   * indexing
   * query-modules
       * [python query modules](https://github.com/memgraph/skills/tree/main/memgraph-python-query-modules) 
       * [c/c++ query modules](https://github.com/memgraph/skills/tree/main/memgraph-cpp-query-modules)
-  * streams
-  * triggers
-  * memory-usage
-  * backups
-  * monitoring
-  * high-availability
-  * multi-tenancy
-  * sharding
+      * [rust query modules](https://github.com/memgraph/skills/tree/main/memgraph-rust-query-modules)
+  * understanding graph algorithms
+  * using data streams
+  * using triggers
+  * controlling the memory usage
+  * doing backups
+  * using CRON to schedule backups/snapshots
+  * setting up encryption
+  * operating under k8s
+  * manage your schema
+  * figuring out the data retention (TTL)
+  * shard your data
+  * leverage GPUs
   * enterprise
+    * monitoring
+    * high-availability
+    * authorization (roles)
+    * sometimes there is a need to impersonate a database user
+    * SSO
+    * multi-tenancy
+    * ensuring auditability
+    * make your databases compliant
 
 ## Feedback 🆘
 
