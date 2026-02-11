@@ -1,17 +1,18 @@
 # Roadmap 🗺️
 
-Last update 2025-01-14
-<img width="1762" height="1120" alt="Screenshot 2026-01-14 at 11 03 27 AM" src="https://github.com/user-attachments/assets/e60f0cd9-8e1a-4226-9d3a-9fc602ce5028" />
-*the next update ETA 2026-02-03 ⏳
+Last update 2025-02-11
+<img width="1276" height="922" alt="roadmap" src="https://github.com/user-attachments/assets/e47b8daa-8b85-4a64-82ef-287c1b378882" />
+*the next update ETA 2026-02-24 ⏳
 
 ## Release Cycle ♻️
 
 Memgraph product team works in 6-week release cycles. Every six weeks, a new release of Memgraph includes all finished features and resolved bug reports. The exact release dates are visible as Due Dates under [milestones](https://github.com/memgraph/memgraph/milestones). There might be bug-fix releases between regular releases, depending on how critical these fixes are for Memgraph's production deployments.
 
 The exact cycle structure is visualized in the diagram below:
-<img width="1200" alt="ReleaseCycle_hybrid" src="https://github.com/user-attachments/assets/300a83ed-b299-438d-bb4c-2928f7024064" />
+![(Stable)ReleaseCycle_hybrid](https://github.com/user-attachments/assets/94876b3d-e5f1-4749-a5ec-18a04ad78f2d)
 
 The team is also considering some form of Long-term Support (LTS) structure. If you have specific input about how we should organize around LTS, feel free to reach out or [open a new issue under this repo](https://github.com/memgraph/roadmap/issues) with the exact expectations.
+![LTS ReleaseCycle v2](https://github.com/user-attachments/assets/cfa007ee-527d-40a8-871c-75c498b319cb)
 
 ## Daily Build of Memgraph and Mage 🏗️
 
