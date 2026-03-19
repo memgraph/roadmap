@@ -56,10 +56,12 @@ What should I master to tackle my use case using Memgraph? Graph meisters skills
   * taking large amounts of data in (cypherl, CSV, JSON, PARQUET, ...)
   * what are the right data types
   * indexing
-  * query-modules
-      * [python query modules](https://github.com/memgraph/skills/tree/main/memgraph-python-query-modules) 
-      * [c/c++ query modules](https://github.com/memgraph/skills/tree/main/memgraph-cpp-query-modules)
-      * [rust query modules](https://github.com/memgraph/skills/tree/main/memgraph-rust-query-modules)
+  * AI
+      * [doing GraphRAG](https://github.com/memgraph/skills/tree/main/memgraph-graph-rag)
+  * developing query modules
+      * [Python](https://github.com/memgraph/skills/tree/main/memgraph-python-query-modules) 
+      * [C/C++](https://github.com/memgraph/skills/tree/main/memgraph-cpp-query-modules)
+      * [Rust](https://github.com/memgraph/skills/tree/main/memgraph-rust-query-modules)
   * understanding graph algorithms
   * using data streams
   * using triggers
