@@ -1,8 +1,8 @@
 # Roadmap 🗺️
 
-Last update 2026-07-07
-<img width="1655" height="1062" alt="Screenshot 2026-07-07 at 5 01 10 PM" src="https://github.com/user-attachments/assets/22ae7b42-f824-457c-9b9c-cee120c27e78" />
-*the next update ETA 2026-07-21 ⏳
+Last update 2026-08-18
+<img width="1350" height="876" alt="Screenshot 2026-08-18 at 4 08 53 PM" src="https://github.com/user-attachments/assets/e3c45626-21c7-4c3d-9ec3-a82452d6317b" />
+*the next update ETA 2026-09-08 ⏳
 
 ## Release Cycle ♻️
 
